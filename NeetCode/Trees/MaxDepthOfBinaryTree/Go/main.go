@@ -1,4 +1,4 @@
-package main
+package maxdepthofbinarytreee
 
 /**
  * Definition for a binary tree node.
