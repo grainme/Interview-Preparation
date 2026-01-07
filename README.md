@@ -3,8 +3,9 @@
 
 
 ## Journey so far
+- [x] Got 14/270 Moroccan National Programming Contest 2024
 - [x] Got place 12/130 in ITholic Contest 2023
-- [x]  Got place 33/90 in MNPC 2023
+- [x] Got place 33/90 in MNPC 2023
 
 ## Resources
 - [LeetCode](https://leetcode.com/)
