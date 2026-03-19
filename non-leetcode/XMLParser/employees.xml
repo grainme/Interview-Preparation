@@ -1,0 +1,29 @@
+<employees>
+    <employee id="1">
+        <name>Alice</name>
+        <department>Engineering</department>
+        <salary currency="MAD">15000</salary>
+        <skills>
+            <skill>Python</skill>
+            <skill>Java</skill>
+        </skills>
+    </employee>
+    <employee id="2">
+        <name>Bob</name>
+        <department>Engineering</department>
+        <salary currency="MAD">18000</salary>
+        <skills>
+            <skill>Go</skill>
+            <skill>Docker</skill>
+            <skill>Python</skill>
+        </skills>
+    </employee>
+    <employee id="3">
+        <name>Charlie</name>
+        <department>Marketing</department>
+        <salary currency="MAD">12000</salary>
+        <skills>
+            <skill>Excel</skill>
+        </skills>
+    </employee>
+</employees>
